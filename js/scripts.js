@@ -255,6 +255,7 @@ if(b4.childNodes.length > 0 && b5.childNodes.length > 0 && b6.childNodes.length 
 }
   
 
+
 // limpa o jogo declara o vencedor e atualzia o placar
 
 function declaraWinner(winner) {
